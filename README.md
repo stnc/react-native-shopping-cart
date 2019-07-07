@@ -2,7 +2,9 @@
 
 react native shopping cart
 
-#IMAGE 
+react native navigation and redux shopping cart
+
+# IMAGEs 
 
 ## home 
 <img src="https://github.com/stnc/react-native-shopping-cart/blob/master/img/home.png?raw=true" alt="home.png">
