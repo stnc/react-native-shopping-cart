@@ -1,9 +1,15 @@
-# React-Native-Redux-Shopping-Cart-Count
-Keep a track of items in your shopping cart using react native and redux
+#react native shopping cart (react native navigation and redux shopping cart)
 
-# Project files for Youtube Tutorial
-- https://www.youtube.com/watch?v=R39sa1RQyI8&t=6s
+react native shopping cart
 
-# Demo 
+#IMAGE 
 
-<a href="https://imgflip.com/gif/2l7chd"><img src="https://i.imgflip.com/2l7chd.gif" title="made at imgflip.com"/></a>
+##home 
+<span class="border-wrap"><img src="/stnc/react-native-shopping-cart/blob/master/img/home.png?raw=true" alt="home.png"></span>
+
+#product screen
+<span class="border-wrap"><img src="/stnc/react-native-shopping-cart/blob/master/img/electoinc.png?raw=true" alt="electoinc.png"></span>
+
+#card screen
+<span class="border-wrap"><img src="/stnc/react-native-shopping-cart/blob/master/img/card.png?raw=true" alt="card.png"></span>
+
