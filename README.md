@@ -13,5 +13,5 @@ react native navigation and redux shopping cart
 <img src="https://github.com/stnc/react-native-shopping-cart/blob/master/img/electoinc.png?raw=true" alt="electoinc.png">
 
 # card screen
-<img src="https://github.com/stnc/react-native-shopping-cart/blob/master/img/card.png?raw=true" alt="card.png">
+<img src="https://github.com/stnc/react-native-shopping-cart/blob/master/img/card2.png?raw=true" alt="card.png">
 
