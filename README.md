@@ -1,15 +1,15 @@
-#react native shopping cart (react native navigation and redux shopping cart)
+# react native shopping cart (react native navigation and redux shopping cart)
 
 react native shopping cart
 
 #IMAGE 
 
-##home 
-<span class="border-wrap"><img src="/stnc/react-native-shopping-cart/blob/master/img/home.png?raw=true" alt="home.png"></span>
+## home 
+<img src="/stnc/react-native-shopping-cart/blob/master/img/home.png?raw=true" alt="home.png">
 
-#product screen
-<span class="border-wrap"><img src="/stnc/react-native-shopping-cart/blob/master/img/electoinc.png?raw=true" alt="electoinc.png"></span>
+# product screen
+<img src="/stnc/react-native-shopping-cart/blob/master/img/electoinc.png?raw=true" alt="electoinc.png">
 
-#card screen
-<span class="border-wrap"><img src="/stnc/react-native-shopping-cart/blob/master/img/card.png?raw=true" alt="card.png"></span>
+# card screen
+<img src="/stnc/react-native-shopping-cart/blob/master/img/card.png?raw=true" alt="card.png">
 
