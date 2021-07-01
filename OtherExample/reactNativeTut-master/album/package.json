@@ -1,0 +1,29 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "eslint-config-rallycoding": "^3.2.0",
+    "moment": "^2.22.1",
+    "native-base": "^2.4.2",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-elements": "^0.19.1"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.3",
+    "babel-preset-expo": "^5.0.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.3",
+    "react-test-renderer": "16.3.1",
+    "schedule": "^0.4.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "private": true
+}
